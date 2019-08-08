@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VacationDeals</string>
+    <string name="deal_title_hint">Deal Title</string>
+    <string name="price_hint">Price (numbers only )</string>
+    <string name="deal_description">Deal description</string>
+    <string name="save_menu">Save</string>
+    <string name="delete_deal">Delete</string>
+</resources>

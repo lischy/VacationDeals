@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128559230134",
+    "firebase_url": "https://richtravelers-bc076.firebaseio.com",
+    "project_id": "richtravelers-bc076",
+    "storage_bucket": "richtravelers-bc076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128559230134:android:1019261ab7830579",
+        "android_client_info": {
+          "package_name": "com.example.vacationdeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128559230134-j3g4q80amapfaq65ammtc2a4vpougie8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vacationdeals",
+            "certificate_hash": "3b50e0f6093d21e9ed995f6564f534e955749cf6"
+          }
+        },
+        {
+          "client_id": "128559230134-8se896rvov8sj0div5s5qlultamfg393.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fNjvydiihoK-162QMdT8Q_TjVAFG5xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128559230134-8se896rvov8sj0div5s5qlultamfg393.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
